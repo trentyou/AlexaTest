@@ -3,7 +3,7 @@ var express = require('express');
 var alexa = require('alexa-app');
 
 
-var PORT = 5002;
+var PORT = 8080;
 var app = express();
 
 // ALWAYS setup the alexa app and attach it to express before anything else.
