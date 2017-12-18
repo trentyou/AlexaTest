@@ -1,0 +1,16 @@
+{
+  "name": "alexatest",
+  "version": "1.0.0",
+  "description": "Test for Alexa on Node js",
+  "main": "alexa.js",
+  "scripts": {
+    "start": "node alexa.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^4.2.0",
+    "express": "^4.16.2"
+  }
+}
